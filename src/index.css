@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@400;700&family=Fira+Code:wght@400;500;600&family=Kalam:wght@300;400;700&family=Nunito:ital,wght@0,400;0,500;1,400&family=Open+Sans:ital,wght@0,400;0,500;1,300;1,400&family=Patrick+Hand&family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Roboto:ital,wght@0,100;0,400;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import "./styles/commonClasses.css";
+@import "./styles/variable";
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
